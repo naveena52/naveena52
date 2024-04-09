@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 I'm
-Full Stack Solution Architect
+Software Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs),  Server Administrator(AWS),database(MongoDB,Mysql), CI/CD(Docker, Kubernetes) 
 
 
